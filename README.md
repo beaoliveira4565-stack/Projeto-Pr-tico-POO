@@ -2,11 +2,10 @@
 
 ## Integrantes
 **EQUIPE ALFA** (Alunos e Cursos)
-- Beatriz Oliveira – Curso ADS
-- Jéssica Silva – Curso ADS
-- Caroline Pereira – Curso ADS
-- Sandro Guimarães – Curso ADS
-- Felipe Costa – Curso Engenharia de Software
+- Beatriz Feitosa – Curso ADS
+- Jéssica Boa Morte – Curso ADS
+- Caroline Dias – Curso ADS
+- Sandro Jesus – Curso ADS
 
 **EQUIPE BETA** (Professores e Disciplinas)
 - José Augusto – Disciplina Banco de Dados
